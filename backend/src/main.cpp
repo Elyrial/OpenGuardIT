@@ -1,5 +1,4 @@
-// include logger header
-// include controller header
+#include "../include/utils/logger.h"
 
 int main() {
 
@@ -7,7 +6,7 @@ int main() {
 
 
     // example log message
-    spdlog::info("Server started")
+    spdlog::info("Server started");
 
     return 0;
 }
