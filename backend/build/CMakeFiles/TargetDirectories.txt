@@ -1,0 +1,3 @@
+/home/elyrial/OpenGuardIT/backend/build/CMakeFiles/OpenGuardIT.dir
+/home/elyrial/OpenGuardIT/backend/build/CMakeFiles/edit_cache.dir
+/home/elyrial/OpenGuardIT/backend/build/CMakeFiles/rebuild_cache.dir

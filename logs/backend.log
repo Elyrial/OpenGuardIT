@@ -1,1 +1,4 @@
 // Backend logger
+[2024-07-14 21:07:30.082] [basic_logger] [info] Welcome to spdlog
+[2024-07-14 21:07:30.082] [basic_logger] [warning] This is a warning message
+[2024-07-14 21:07:30.082] [basic_logger] [error] This is an error message
