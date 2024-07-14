@@ -1,10 +1,10 @@
 
 // Test examples
 export const logInfo = (message) => {
-    console.log(`[INFO] ${messaage}`);
+    console.log(`[INFO] ${message}`);
 }
 
 
 export const logError = (message) => {
-    console.error(`[ERROR] ${messaage}`);
+    console.error(`[ERROR] ${message}`);
 }
